@@ -106,6 +106,10 @@ Exceção capturada: Não é possível dividir por zero.
 === FIM DO PROGRAMA ===
 ```
 
+### 🖥️ Execução no Terminal
+
+![Execução do Programa](https://raw.githubusercontent.com/LuizJuniorFSS/programa_em_java_que_simula_operacoes_matematicas/master/screenshot.png)
+
 ## 🔧 Conceitos Aplicados
 
 ### 1. **Programação Orientada a Objetos**
